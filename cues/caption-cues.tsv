@@ -1,0 +1,24 @@
+cue_id	program_id	language	start_sec	end_sec	caption
+QC-101	PG-101	EN	0	40	Dawn enters the gallery
+QC-102	PG-101	EN	40	80	Cloud bands brighten
+QC-103	PG-101	EN	80	120	The horizon turns violet
+QC-201	PG-204	ES	0	30	El bosque despierta
+QC-202	PG-204	ES	25	60	Las hojas se mecen
+QC-203	PG-204	ES	70	100	La marea regresa
+QC-301	PG-315	EN	10	45	A coal begins to glow
+QC-302	PG-315	EN	45	90	Ash settles in silence
+QC-401	PG-422	ES	0	60	El reloj sigue la costa
+QC-501	PG-507	EN	0	25	Wings unfold
+QC-502	PG-507	EN	25	50	The moth circles once
+QC-503	PG-507	EN	50	75	Moonlight fades
+QC-504	PG-507	ES	0	75	La polilla cruza la luna
+QC-601	PG-618	ES	0	20	La piedra resuena
+QC-602	PG-618	ES	20	50	El eco se apaga
+BAD-01	PG-101	EN	0	10	Bad identifier
+QC-777	PG-101	EN	0	10	Duplicate first
+QC-777	PG-422	ES	0	10	Duplicate second
+QC-801	PG-999	EN	0	10	Unknown program
+QC-802	PG-101	FR	0	10	Wrong language
+QC-803	PG-315	EN	00	10	Padded start
+QC-804	PG-618	ES	40	55	Beyond duration
+QC-805	PG-422	ES	0	10
